@@ -1,6 +1,6 @@
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-> 2020년 웹 개발자가 되기 위한 로드맵
+> 2021년 웹 개발자가 되기 위한 로드맵
 
 [![](https://img.shields.io/badge/-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
